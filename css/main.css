@@ -1,0 +1,237 @@
+@charset "UTF-8";
+/*CSS Doc*/
+body
+.hidden
+{
+	display: none;
+}
+
+#container 
+{
+	margin: 0 auto;
+	width: 1000px;
+	height: 800px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #efefef;
+}
+
+.header
+{
+	text-align: center;
+	font-family: Rockwell;
+	font-size: 40px ;
+	color: #495867;
+
+
+}
+
+.header2
+{
+	text-align: center;
+	font-family: Rockwell;
+	font-size: 20px ;
+	color: 	#454c50;
+}
+
+#mainContent
+{
+    padding-left: 155px; 
+	display: flex;
+	flex-direction: row;
+	border: ;
+	background-color: #495867;
+}
+
+#mainContent2
+{
+
+	display: flex;
+	flex-direction: row;
+    padding-left: 155px;
+    background-color: #495867;
+    height: 300px;
+}
+
+#mainNav
+{
+	width: 300px;
+	margin-left: auto;
+	text-align: center;
+	padding-top: 20px;
+
+	
+}
+
+#mainNav a
+{
+	color: #495867;
+	text-decoration: none;
+
+}
+
+
+
+
+#mainNav ul 
+{
+	list-style-type: none;
+	
+	
+}
+
+#mainNav ul li
+{
+	display: inline;
+	padding: 5px;
+	font-size: 15px;
+}
+
+#but
+{
+	height: 20px;
+	width: 80px;
+	background-color: #efefef;
+	border-radius: 12px;
+	margin-left: 1px;
+
+}
+
+.box1
+{
+	width: 100px;
+	height: 100px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	margin-right: 50px;
+}
+
+.box2 
+{
+
+	width: 100px;
+	height: 100px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	
+	margin-right: 50px;
+}
+
+.box3
+{
+
+	width: 100px;
+	height: 100px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	
+	margin-right: 50px;
+}
+.box4
+{
+
+	width: 100px;
+	height: 100px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	
+	margin-right: 50px;
+}
+
+.box5
+{
+	width: 100px;
+	height: 100px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	
+	margin-right: 50px;
+}
+
+.box6
+{
+
+	width: 100px;
+	height: 100px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	
+	margin-right: 50px;
+}
+
+.box7
+{
+
+	width: 100px;
+	height: 100px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	
+	margin-right: 50px;
+}
+
+
+.box8
+{
+
+	width: 100px;
+	height: 100px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	
+	margin-right: 50px;
+}
+
+.box9
+{
+
+	width: 100px;
+	height: 100px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	
+	margin-right: 50px;
+}
+
+.box10
+{
+
+	width: 100px;
+	height: 100px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	
+	margin-right: 50px;
+}
+
+#footerNav
+{
+	width: 445px;
+	padding-left: 375px;
+}
+
+#footerNav ul 
+{
+
+	list-style-type: none;
+	
+}
+
+#footerNav ul li
+{
+	display: inline;
+	padding: 5px;
+	font-size: 15px;
+}
+
+
+
+
+
+#mainFooter a 
+{
+	color: 	#454c50;
+	text-decoration: none;
+
+}
+
